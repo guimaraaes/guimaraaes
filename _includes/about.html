@@ -1,0 +1,15 @@
+<div class="container intro-container">
+  <h3>{{ site.about_title | default: "" }}</h3>
+  <div class="row clearfix">
+    {%- if site.about_profile_image -%}
+      <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+        <img class="profile-img" src="../profile.jpg"></img>
+      </div>
+    {%- endif -%}
+    <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
+      {{ "Sou braisleira e natual do auto oeste potiguar, dentre as minhas principais características
+      profissionais sou proativa, persistênte, pontualista, flexível. Além disso, trabalho com as seguintes
+      ferramentas/tecnologias pacote Office, Arduino, ESP8266, Modelagem 3D, AutoCad, PHP, MySQL, Bootstrap." | strip | markdownify }}
+    </div>
+  </div>
+</div>

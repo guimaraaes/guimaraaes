@@ -1,0 +1,23 @@
+# Experience template
+- layout: left
+  company: EvoCorp
+  link: evocorp.com.br/
+  job_title: Programador
+  dates: Período (Setembro de 2018- presente)
+  quote: >
+   São Miguel, Rio Grande do Norte, Brasil
+  description: | # this will include new lines to allow paragraphs
+    Durante o meu período na EvoCorp atuei com desenvolvimento Back-End 
+    trabalhando com as linguagem PHP e Golang.
+
+- layout: left
+  company: Agritech
+  job_title: Programador
+  dates: Período (2019)
+  quote: >
+    Pereiro, Céara, Brasil
+  description: | # this will include new lines to allow paragraphs
+    Durante o meu período na Agritech atuei com desenvolvimento de sistemas
+    embarcados para projetos de automação e em um projeto de uma estação
+    meteorológica com ESP-8266
+  

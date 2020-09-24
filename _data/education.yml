@@ -1,0 +1,30 @@
+# Education Template
+- layout: left
+  name: UFERSA
+  dates: Período (2018 - 2020)
+  qualification: Graduação em Engenharia de
+    Computação
+  quote: >
+    Pau dos Ferros, Rio Grande do Norte, Brasil
+  description: | # this will include new lines to allow paragraphs
+    Durante essa graduação atuei em projeto de extensão como o 
+    Robótica Educacional, o Espaço da Ciência e realizei o estágio na empresa Agritech.
+
+- layout: left
+  name: UFERSA
+  dates: Período (2015 - 2018)
+  qualification: Graduação em Interdisciplinar
+    em Ciências e Tecnologia
+  quote: >
+    Pau dos Ferros, Rio Grande do Norte, Brasil
+  description: | # this will include new lines to allow paragraphs
+    Durante essa graduação atuei em projetos de monitoria acadêmica e iniciação científica.
+
+- layout: left
+  name: EEEP MCPF
+  dates: Período (2012 - 2014)
+  qualification: Técnico em Agronegócio
+  quote: >
+    Pereiro, Céara, Brasil
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification

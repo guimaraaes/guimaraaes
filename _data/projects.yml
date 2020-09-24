@@ -1,0 +1,15 @@
+# Project template
+- layout: top-middle
+  name: Projetos
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Projetos de automação 
+
+- layout: top-middle
+  name: Projetos
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Projetos de desenvolvimento 
+
