@@ -3,31 +3,15 @@ Olá, 👋🏻, tudo belê?
 Atualmente eu estou concluindo uma graduação em Engenharia de Computação na [UFERSA](https://ufersa.edu.br/) Campus Pau dos Ferros, trabalhando como programadora na [Evocorp](https://www.evocorp.com.br/) e nas horas vagas buscando padrões na natureza.
 
 ## :books: repositórios no github
-- Python
+- Python:   [data-science](https://github.com/guimaraaes/data-science)
 
-  [data-science](https://github.com/guimaraaes/data-science)
+- C++, Inventor AutoDesk:   [eng_computacao-automacao-modelagem3d](https://github.com/guimaraaes/eng_computacao-automacao-modelagem3d)
 
-- C++, Inventor AutoDesk
-
-  [eng_computacao-automacao-modelagem3d](https://github.com/guimaraaes/eng_computacao-automacao-modelagem3d)
-
-- JavaScript
-
-  [sg_pip-reactjs-nodejs-mongodb](https://github.com/guimaraaes/sg_pip-reactjs-nodejs-mongodb)
+- JavaScript:   [sg_pip-reactjs-nodejs-mongodb](https://github.com/guimaraaes/sg_pip-reactjs-nodejs-mongodb) | [chat_solved_problems-nestjs-neo4j](https://github.com/guimaraaes/chat_solved_problems-nestjs-neo4j) | [products_sale-nestjs-neo4j](https://github.com/guimaraaes/products_sale-nestjs-neo4j)
   
-  [chat_solved_problems-nestjs-neo4j](https://github.com/guimaraaes/chat_solved_problems-nestjs-neo4j)
-  
-  [products_sale-nestjs-neo4j](https://github.com/guimaraaes/products_sale-nestjs-neo4j)
-  
-- Golang
+- Golang:  [api-simple](https://github.com/guimaraaes/api-simple) | [golang_fiber_with_neo4j](https://github.com/guimaraaes/golang_fiber_with_neo4j)
 
-  [api-simple](https://github.com/guimaraaes/api-simple)
-  
-  [golang_fiber_with_neo4j](https://github.com/guimaraaes/golang_fiber_with_neo4j)
-
-- PHP
-
-  [estoque](https://github.com/guimaraaes/estoque)
+- PHP:  [estoque](https://github.com/guimaraaes/estoque)
 
 
 
