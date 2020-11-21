@@ -1,6 +1,6 @@
 Olá, 👋🏻, tudo belê?
 
-Atualmente eu estou concluindo uma graduação em Engenharia de Computação na UFERSA Campus Pau dos Ferros, trabalhando como programadora na Evocorp e nas horas vagas buscando padrões na natureza.
+Atualmente eu estou concluindo uma graduação em Engenharia de Computação na [UFERSA](https://ufersa.edu.br/) Campus Pau dos Ferros, trabalhando como programadora na [Evocorp](https://www.evocorp.com.br/) e nas horas vagas buscando padrões na natureza.
 
 ## :books: repositórios no github
 - DataScience
