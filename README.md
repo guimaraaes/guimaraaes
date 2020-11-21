@@ -22,6 +22,7 @@ Atualmente eu estou concluindo uma graduação em Engenharia de Computação na 
 
 ## 📬 na web você pode me encontrar em
 
-- Web: [guimaraaes.github.io/guimaraaes/]
-- LinkedIn: [https://www.linkedin.com/in/sara-guimar%C3%A3es-aa2382155/]
-- Lattes: [lattes.cnpq.br/7082901769077209]
+- [Web](guimaraaes.github.io/guimaraaes/)
+- [LinkedIn](linkedin.com/in/sara-guimar%C3%A3es-aa2382155/)
+- [Lattes](lattes.cnpq.br/7082901769077209)
+- E-mail: [sguimaraaes@gmail.com]
