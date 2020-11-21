@@ -7,7 +7,9 @@ Atualmente eu estou concluindo uma graduação em Engenharia de Computação na 
 
 - C++, Inventor AutoDesk:   [eng_computacao-automacao-modelagem3d](https://github.com/guimaraaes/eng_computacao-automacao-modelagem3d)
 
-- JavaScript:   [sg_pip-reactjs-nodejs-mongodb](https://github.com/guimaraaes/sg_pip-reactjs-nodejs-mongodb) | [chat_solved_problems-nestjs-neo4j](https://github.com/guimaraaes/chat_solved_problems-nestjs-neo4j) | [products_sale-nestjs-neo4j](https://github.com/guimaraaes/products_sale-nestjs-neo4j)
+- JavaScript:   [sg_pip-reactjs-nodejs-mongodb](https://github.com/guimaraaes/sg_pip-reactjs-nodejs-mongodb) 
+
+- TypeScript: [chat_solved_problems-nestjs-neo4j](https://github.com/guimaraaes/chat_solved_problems-nestjs-neo4j) | [products_sale-nestjs-neo4j](https://github.com/guimaraaes/products_sale-nestjs-neo4j)
   
 - Golang:  [api-simple](https://github.com/guimaraaes/api-simple) | [golang_fiber_with_neo4j](https://github.com/guimaraaes/golang_fiber_with_neo4j)
 
