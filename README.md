@@ -3,7 +3,7 @@ Olá, 👋🏻, tudo belê?
 Atualmente eu estou concluindo uma graduação em Engenharia de Computação na [UFERSA](https://ufersa.edu.br/) Campus Pau dos Ferros, trabalhando como programadora na [Evocorp](https://www.evocorp.com.br/) e nas horas vagas buscando padrões na natureza.
 
 ## :computer: linguagem: repositórios
-- [data-science](https://github.com/guimaraaes/data-science)
+- Python: [data-science](https://github.com/guimaraaes/data-science)
 
 - C++, Inventor AutoDesk: [eng_computacao-automacao-modelagem3d](https://github.com/guimaraaes/eng_computacao-automacao-modelagem3d)
 
