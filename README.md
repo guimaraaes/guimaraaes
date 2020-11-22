@@ -50,6 +50,7 @@ Atualmente eu estou concluindo uma graduação em Engenharia de Computação na 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://damassets.autodesk.net/content/dam/autodesk/www/products/2017_badges/logo_lockups/non-responsive/inventor-2017-lockup-610x66.png"></code>
 
+## :mailbox: na web você me encontra em
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sguimaraaes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/sara-guimar%C3%A3es-aa2382155/)
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://guimaraaes.github.io/guimaraaes/)
