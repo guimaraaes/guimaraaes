@@ -2,6 +2,8 @@ Olá, 👋🏻, tudo belê?
 
 Atualmente eu estou concluindo uma graduação em Engenharia de Computação na [UFERSA](https://ufersa.edu.br/) Campus Pau dos Ferros, trabalhando como programadora na [Evocorp](https://www.evocorp.com.br/) e nas horas vagas buscando padrões na natureza.
 
+</br>
+
 ## :books: linguagem: repositórios
 - Python: [data-science](https://github.com/guimaraaes/data-science)
 
@@ -14,7 +16,7 @@ Atualmente eu estou concluindo uma graduação em Engenharia de Computação na 
 - Golang: [api-simple](https://github.com/guimaraaes/api-simple) | [golang_fiber_with_neo4j](https://github.com/guimaraaes/golang_fiber_with_neo4j)
 
 - PHP: [estoque](https://github.com/guimaraaes/estoque)
-
+</br>
 <!--
 ## &#x1f4c8; minhas estatísticas no GitHub
 <a href="https://github.com/guimaraaes/guimaraaes">
@@ -50,10 +52,11 @@ Atualmente eu estou concluindo uma graduação em Engenharia de Computação na 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://damassets.autodesk.net/content/dam/autodesk/www/products/2017_badges/logo_lockups/non-responsive/inventor-2017-lockup-610x66.png"></code>
 
+</br>
+
 ## :mailbox: na web você me encontra em
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sguimaraaes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/sara-guimar%C3%A3es-aa2382155/)
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://guimaraaes.github.io/guimaraaes/)
-[![Lattes](https://img.shields.io/badge/lattes-1793D1?logoColor=white&style=for-the-badge)](lattes.cnpq.br/7082901769077209)
-
+[<img height="25" src="https://i.imgur.com/2iVxee6.png">![Lattes](https://img.shields.io/badge/lattes-%23100000?logoColor=blue&style=for-the-badge)](http://lattes.cnpq.br/7082901769077209)
 
