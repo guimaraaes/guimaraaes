@@ -3,7 +3,7 @@ Olá, 👋🏻, tudo belê?
 Atualmente eu estou concluindo uma graduação em Engenharia de Computação na [UFERSA](https://ufersa.edu.br/) Campus Pau dos Ferros, trabalhando como programadora na [Evocorp](https://www.evocorp.com.br/) e nas horas vagas buscando padrões na natureza.
 
 ## :computer: linguagem: repositórios
-- Python:   [data-science](https://github.com/guimaraaes/data-science)
+- [data-science](https://github.com/guimaraaes/data-science)
 
 - C++, Inventor AutoDesk: [eng_computacao-automacao-modelagem3d](https://github.com/guimaraaes/eng_computacao-automacao-modelagem3d)
 
@@ -25,9 +25,9 @@ Atualmente eu estou concluindo uma graduação em Engenharia de Computação na 
 </a>
 -->
 
-## 📬 na web você me encontra em
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sguimaraaes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/sara-guimar%C3%A3es-aa2382155/)
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://guimaraaes.github.io/guimaraaes/)
+[![Lattes](https://img.shields.io/badge/lattes-1793D1?logoColor=white&style=for-the-badge)](lattes.cnpq.br/7082901769077209)
 
-- [Web](https://guimaraaes.github.io/guimaraaes/)
-- [LinkedIn](linkedin.com/in/sara-guimar%C3%A3es-aa2382155/)
-- [Lattes](lattes.cnpq.br/7082901769077209)
-- E-mail: [sguimaraaes@gmail.com]
+
