@@ -27,7 +27,10 @@ Atualmente eu estou concluindo uma graduação em Engenharia de Computação na 
 </a>
 -->
 
-## :wrench: ferramentas de programação
+## :wrench: ferramentas de trabalho
+<code><img height="40" src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-compare/2017/inventor-2017-badge-75x75.png"></code>
+<code><img height="40" src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-compare/2017/autocad-2017-badge-75x75.png"></code>
+<code><img height="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
 <code><img height="40" src="https://laravel.com/img/logomark.min.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
@@ -50,7 +53,7 @@ Atualmente eu estou concluindo uma graduação em Engenharia de Computação na 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" src="https://damassets.autodesk.net/content/dam/autodesk/www/products/2017_badges/logo_lockups/non-responsive/inventor-2017-lockup-610x66.png"></code>
+
 
 </br>
 
