@@ -1,6 +1,7 @@
 Olá, 👋🏻, tudo belê?
 
-Atualmente eu estou concluindo uma graduação em Engenharia de Computação na [UFERSA](https://ufersa.edu.br/) Campus Pau dos Ferros, trabalhando como programadora na [Evocorp](https://www.evocorp.com.br/) e nas horas vagas buscando padrões na natureza.
+Sou Bacharel em Engenharia de Computação pela [UFERSA](https://ufersa.edu.br/) Campus Pau dos Ferros e trabalho como professora substituta para as disciplinas de 
+Algoritmos e Programação, Sistemas Operacionais, Arquitetura e Organização de Computadores e Teoria da Computação na UFERSA Campus Angicos. 
 
 </br>
 
