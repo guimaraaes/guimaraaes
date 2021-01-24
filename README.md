@@ -5,6 +5,9 @@ Algoritmos e Programação, Sistemas Operacionais, Arquitetura e Organização d
 
 </br>
 
+
+<!--
+
 ## :books: linguagem: repositórios
 - Python: [data-science](https://github.com/guimaraaes/data-science)
 
@@ -18,7 +21,7 @@ Algoritmos e Programação, Sistemas Operacionais, Arquitetura e Organização d
 
 - PHP: [estoque](https://github.com/guimaraaes/estoque)
 </br>
-<!--
+
 ## &#x1f4c8; minhas estatísticas no GitHub
 <a href="https://github.com/guimaraaes/guimaraaes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraaes&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
