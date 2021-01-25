@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://thiiismuchcom.files.wordpress.com/2018/05/succulentheader.jpg?w=880&h=312&crop=1"  height="150" />
+ </p>
+ 
 Olá, 👋🏻, tudo belê?
 
 Sou Bacharel em Engenharia de Computação pela [UFERSA](https://ufersa.edu.br/) Campus Pau dos Ferros e trabalho como professora substituta para as disciplinas de 
@@ -36,7 +40,7 @@ Algoritmos e Programação, Sistemas Operacionais, Arquitetura e Organização d
 <code><img height="40" src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-compare/2017/autocad-2017-badge-75x75.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
