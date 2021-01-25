@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://thiiismuchcom.files.wordpress.com/2018/05/succulentheader.jpg?w=880&h=312&crop=1"  height="150" />
- </p>
- 
 Olá, 👋🏻, tudo belê?
 
 Sou Bacharel em Engenharia de Computação pela [UFERSA](https://ufersa.edu.br/) Campus Pau dos Ferros e trabalho como professora substituta para as disciplinas de 
