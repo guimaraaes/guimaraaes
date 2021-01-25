@@ -6,37 +6,12 @@ Algoritmos e Programação, Sistemas Operacionais, Arquitetura e Organização d
 </br>
 
 
-<!--
-
-## :books: linguagem: repositórios
-- Python: [data-science](https://github.com/guimaraaes/data-science)
-
-- C++, Inventor AutoDesk: [eng_computacao-automacao-modelagem3d](https://github.com/guimaraaes/eng_computacao-automacao-modelagem3d)
-
-- JavaScript: [sg_pip-reactjs-nodejs-mongodb](https://github.com/guimaraaes/sg_pip-reactjs-nodejs-mongodb) 
-
-- TypeScript: [chat_solved_problems-nestjs-neo4j](https://github.com/guimaraaes/chat_solved_problems-nestjs-neo4j) | [products_sale-nestjs-neo4j](https://github.com/guimaraaes/products_sale-nestjs-neo4j)
-  
-- Golang: [api-simple](https://github.com/guimaraaes/api-simple) | [golang_fiber_with_neo4j](https://github.com/guimaraaes/golang_fiber_with_neo4j)
-
-- PHP: [estoque](https://github.com/guimaraaes/estoque)
-</br>
-
-## &#x1f4c8; minhas estatísticas no GitHub
-<a href="https://github.com/guimaraaes/guimaraaes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraaes&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/guimaraaes/guimaraaes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guimaraaes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
-</a>
--->
-
 ## :wrench: ferramentas de trabalho
 <code><img height="40" src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-compare/2017/inventor-2017-badge-75x75.png"></code>
 <code><img height="40" src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-compare/2017/autocad-2017-badge-75x75.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -63,7 +38,7 @@ Algoritmos e Programação, Sistemas Operacionais, Arquitetura e Organização d
 
 </br>
 
-## :mailbox: na web você me encontra em
+## :mailbox: você ainda pode me encontrar em
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sguimaraaes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-guimar%C3%A3es-aa2382155/)
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://guimaraaes.github.io/guimaraaes/)
