@@ -1,6 +1,6 @@
 Olá, 👋🏻, tudo belê?
 
-Sou Bacharel em Engenharia de Computação pela [UFERSA](https://ufersa.edu.br/) Campus Pau dos Ferros. Atualmente sou Mestranda no programada de Sistemas e Computação da UFRN na área de Engenharia de Software e trabalho como professora substituta para as disciplinas de Algoritmos e Programação, Sistemas Operacionais, Arquitetura e Organização de Computadores e Teoria da Computação na UFERSA Campus Angicos. 
+Sou bacharel em Engenharia de Computação pela [UFERSA](https://ufersa.edu.br/) Campus Pau dos Ferros e amante da vida selvagem. Atualmente, sou mestranda no programada de pós graduação de Sistemas e Computação da UFRN na área de Engenharia de Software e trabalho como professora substituta para as disciplinas de Algoritmos e Programação, Sistemas Operacionais, Arquitetura e Organização de Computadores e Teoria da Computação na UFERSA Campus Angicos. 
 
 </br>
 
