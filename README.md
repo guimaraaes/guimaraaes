@@ -3,6 +3,28 @@ Olá, 👋🏻, tudo belê?
 Sou bacharel em Engenharia de Computação e em Ciências e Tecnologia pela [UFERSA](https://ufersa.edu.br/) Campus Pau dos Ferros. Atualmente, sou mestranda no [PPgSC na UFRN](https://posgraduacao.ufrn.br/ppgsc) na área de Engenharia de Software e trabalho como professora substituta na UFERSA Campus Angicos. [Aqui](https://sigaa.ufersa.edu.br/sigaa/public/docente/disciplinas.jsf?siape=3221528) você pode conferir as disciplinas que já ministrei para alunos de graduação.
 
 </br>
+## :wrench: a seguir listo os repositórios e ferramentas busco manter estudos
+
+### :wrench: chocadeira inteligente
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" src="https://avatars0.githubusercontent.com/u/7658037?s=400&v=4"></code>
+
+[Conheça mais](https://github.com/guimaraaes/chocadeira-inteligente-react_native-nestJS-postgreSQL)
+
+
+### :wrench: sgPIP
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" src="https://avatars0.githubusercontent.com/u/7658037?s=400&v=4"></code>
+
+[Conheça mais](https://github.com/guimaraaes/sg_pip-reactjs-nodejs-mongodb)
+
 
 ## :wrench: ferramentas que mantenho foco
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png"></code>
