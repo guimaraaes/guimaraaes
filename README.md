@@ -1,4 +1,4 @@
-Bacharel em Engenharia de Computação e em Ciências e Tecnologia pela [UFERSA](https://paudosferros.ufersa.edu.br/) Campus Pau dos Ferros. Atualmente, sou mestranda no [PPgSC na UFRN](https://posgraduacao.ufrn.br/ppgsc) na área de Engenharia de Software e trabalho como professora substituta na UFERSA Campus Angicos. [Aqui](https://sigaa.ufersa.edu.br/sigaa/public/docente/disciplinas.jsf?siape=3221528) você pode conferir as disciplinas que já ministrei para alunos de graduação.
+Bacharel em Engenharia de Computação e em Ciências e Tecnologia pela [UFERSA](https://paudosferros.ufersa.edu.br/) Campus Pau dos Ferros. Atualmente, sou mestranda no [PPgSC na UFRN](https://posgraduacao.ufrn.br/ppgsc) na área de Engenharia de Software e trabalho como [professora substituta](https://github.com/guimaraaes/turmas-ufersa_campus_angicos) na UFERSA Campus Angicos. [Aqui](https://sigaa.ufersa.edu.br/sigaa/public/docente/disciplinas.jsf?siape=3221528) você pode conferir as disciplinas que já ministrei para alunos de graduação.
 
 </br>
 
