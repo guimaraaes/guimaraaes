@@ -7,6 +7,7 @@ Bacharel em Engenharia de Computação e em Ciências e Tecnologia pela [UFERSA]
 ### :wrench: ufrn: documentação e testes em sistemas embarcados
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/9865736?s=280&v=4"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
 <code><img height="40" src="https://sysml.org/rw_common/images/SysML-Logo-77x60-140601b.png"></code>
 <code><img height="40" src="https://sysadl.imd.ufrn.br/img/sysadl_logo_transparent_b.png"></code>
 <code><img height="40" src="https://www.itemis.com/hs-fs/hubfs/yakindu/statechart-tools/yakindu-statechart-tools-lang.png?width=785&height=140&name=yakindu-statechart-tools-lang.png"></code>
