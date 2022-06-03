@@ -37,7 +37,7 @@ Ainda não disponível
 
 Ainda não disponível -->
 
-### :wrench: TCC eng. computação: sgPIP
+<!-- ### :wrench: TCC eng. computação: sgPIP
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -45,7 +45,7 @@ Ainda não disponível -->
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://avatars0.githubusercontent.com/u/7658037?s=400&v=4"></code>
 
-[Conheça mais](https://github.com/guimaraaes/sg_pip-reactjs-nodejs-mongodb)
+[Conheça mais](https://github.com/guimaraaes/sg_pip-reactjs-nodejs-mongodb) -->
 
 
 ### :wrench: products sale¹ e chat solved problems²
@@ -57,11 +57,11 @@ Ainda não disponível -->
 ²[Conheça mais](https://github.com/guimaraaes/chat_solved_problems-nestjs-neo4j)
 
 
-### :wrench: estudos de data science
+<!-- ### :wrench: estudos de data science
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/38081706?s=400&u=53a18137521b06140f930ae0cae6a7da45ff08ec&v=4"></code>
 
-[Conheça mais](https://github.com/guimaraaes/data-science)
+[Conheça mais](https://github.com/guimaraaes/data-science) -->
 
 
 ### :wrench: ufersa: projetos da graduação
