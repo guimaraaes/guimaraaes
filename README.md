@@ -64,7 +64,7 @@ Ainda não disponível -->
 [Conheça mais](https://github.com/guimaraaes/data-science) -->
 
 
-### :wrench: ufersa: projetos da graduação
+### :wrench: ufersa: projetos da graduação¹ e aulas ministradas²
 <code><img height="40" src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-compare/2017/inventor-2017-badge-75x75.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/9865736?s=280&v=4"></code>
@@ -74,7 +74,8 @@ Ainda não disponível -->
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/38081706?s=400&u=53a18137521b06140f930ae0cae6a7da45ff08ec&v=4"></code>
 
-[Conheça mais](https://github.com/guimaraaes/eng_computacao-ufersa)
+[¹Conheça mais](https://github.com/guimaraaes/eng_computacao-ufersa)
+[²Conheça mais](https://github.com/guimaraaes/turmas-ufersa_campus_angicos)
 
 
 </br>
