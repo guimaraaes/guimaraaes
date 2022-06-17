@@ -4,6 +4,15 @@ Bacharel em Engenharia de Computação e em Ciências e Tecnologia pela [UFERSA]
 
 ## :wrench: confira a seguir meus repositórios e ferramentas de estudo
 
+### :wrench: backend com flask: arquitetura limpa¹ e MVC²
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://www.sqlite.org/images/sqlite370_banner.gif"></code>
+<code><img height="40" src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png"></code>
+<code><img height="40" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"></code>
+
+¹[Conheça mais](https://github.com/guimaraaes/backend-python-clean-architecture)
+²[Conheça mais](https://github.com/guimaraaes/mvc-flask-python)
+
 ### :wrench: ufrn: documentação e testes em sistemas embarcados
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/9865736?s=280&v=4"></code>
