@@ -21,7 +21,7 @@ Bacharel em Engenharia de Computação e em Ciências e Tecnologia pela [UFERSA]
 <code><img height="40" src="https://sysadl.imd.ufrn.br/img/sysadl_logo_transparent_b.png"></code>
 <code><img height="40" src="https://www.itemis.com/hs-fs/hubfs/yakindu/statechart-tools/yakindu-statechart-tools-lang.png?width=785&height=140&name=yakindu-statechart-tools-lang.png"></code>
 
-Ainda não disponível
+[Conheça mais](https://github.com/guimaraaes/metodologia-teste-embarcados-arduino-nodemcu)
 
 ### :wrench: chocadeira inteligente: monitoramento¹ e automação²
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
