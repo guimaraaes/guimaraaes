@@ -1,4 +1,4 @@
-Bacharel em Engenharia de Computação e em Ciências e Tecnologia pela [UFERSA](https://paudosferros.ufersa.edu.br/) Campus Pau dos Ferros. Atualmente, sou mestranda na área de Engenharia de Software no [PPgSC na UFRN](https://posgraduacao.ufrn.br/ppgsc) e trabalho desenvolvedora de software na [AbleTech](https://www.abletech.info/). 
+Bacharel em Engenharia de Computação e em Ciências e Tecnologia pela [UFERSA](https://paudosferros.ufersa.edu.br/) Campus Pau dos Ferros. Atualmente, sou mestranda na área de Engenharia de Software no [PPgSC na UFRN](https://posgraduacao.ufrn.br/ppgsc) e trabalho desenvolvedora de software na [MB Labs](https://mblabs.com.br/). 
 
 Contribuo com a comunidade open-source através do Framework Guimarães desenvolvido como proposta para conclusão do meu mestrado e para apoiar a construção de testes semi-automatizados guiados por documentação para sistemas embarcados com Arduino.
 </br>
